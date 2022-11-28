@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sayur Tetangga</string>
+    <string-array name="metode_pembayaran">
+        <item>Kirim Kurir</item>
+        <item>Ambil Sendiri</item>
+    </string-array>
+</resources>
